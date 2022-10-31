@@ -1,0 +1,308 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #edeff2 ;
+    position: relative;
+    line-height: 1.34;
+   
+    
+}
+
+img{
+height: 104px;
+margin-right: 56px;
+margin-left: -28px;
+
+}
+
+
+.form{
+    width: 396px;
+    display: block;
+    text-align: center;
+    line-height: 1.34;
+    background-color: white;
+    text-align: center;
+    padding-top: 21px;
+    border-bottom-width: 48px;
+    padding-bottom: 24px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.logo{
+    width: 441px;
+    margin: 0 auto;
+    padding-right: 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    padding-top: 50px;
+
+}
+.parentContainer{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,0%);
+  
+}
+.parentContainer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,0%);
+  width: 950px;
+  padding-top: 112px;
+
+}
+.inputDesign{
+
+    width: 370px;
+    box-sizing: border-box;
+    padding: 14px;
+    margin-bottom: 14px;
+    border-radius: 7px;
+    border: solid 1px #dbdfe1;
+
+}
+.inputDesign::placeholder {
+    font-size: 17px;
+}
+
+.forgot
+{
+    text-decoration: none;
+    color: #1a77f2;
+} 
+
+
+
+.btn{
+    box-sizing: border-box;
+    padding: 14px;
+    margin-bottom: 14px;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+.btn1{
+    background-color:#1a77f2;
+    width: 370px;
+    font-size: 20px;
+  
+}
+
+
+.btn2{
+    background-color: #43b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 19px;
+}
+
+.line{
+    text-align: center;
+    border-bottom: 1px solid #dbdde1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: none;
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footerDiv{
+    width: 396px;
+    float: right;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.anchor {
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
+.anchor:hover{
+    text-decoration: underline;
+}
+
+.footer{
+    margin-top: 25px;
+}
+
+
+.font{
+    font-size: 27px;
+    line-height:31px ;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.secondForm{
+ 
+    background-color: #fff;
+    width: 432px;
+    height: 535px;
+    position: absolute;
+    left: 50%;
+    top: 21%;
+    transform: translate(-50%,0%);
+    border-radius: 8px;
+    padding: 16px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    
+  
+
+   
+}
+
+.secondContainerParent{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(266, 266, 266, 0.66);
+}
+.title{
+    color: #1c1e21;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.p{
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    padding-bottom: 22px;
+}
+hr{
+   
+    border-bottom: 1px solid #dbdde1;
+    border-top: none;
+    margin: -15px;
+   
+}
+.formContent{
+    padding-top: 30px;
+}
+
+.box{
+    width: 192px;
+    height: 36px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border-radius: 4px;
+    padding: 9px;
+    border: solid 1px #ccd0d4;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    background-color: #f5f6f7;
+    
+}
+.box1{
+    width: 193px;
+    height: 41px;
+    margin-right: 4px;
+}
+.box2{
+    width: 394px;
+    height: 41px;
+    margin-top: 10px;
+}
+.radioStyle{
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+
+.close{
+    float: right;
+    font-size: smaller;
+    color: #5e6771;
+}
+.months{
+    border-radius: 4px;
+    color: #1c1e21;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    height: 36px;
+    line-height: 20px;
+}
+
+.Style{
+    border-radius: 4px;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #cbd0d6;
+    height: 37px;
+    width: 123px;
+    margin-right: 7px;
+}
+
+.radButton{
+    width: 121px;
+    height: 38px;
+    border: 1px solid #cbd0d6;
+    border-radius: 4px;
+    padding-left: 8px;
+    padding-top: 9px;
+    font-size: 21px;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 9px;
+}
+.lableOfF{
+    margin-right: 31px;
+    line-height: 20px;
+}
+.lableOfM{
+    margin-right: 50px;
+    line-height: 20px;
+}
+.paragraph{
+    font-size: 11px;
+    color: #777;
+    margin-top: 11px;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+}
+.btn3{
+    background-color: #05a306;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 40px;
+    padding: 0px 62px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 38px;
+    transform: translate(45%,0%);
+    margin-top: 17px;
+}
+.paragraph a{
+    text-decoration: none;
+    color: #385898
+}
+
+.paragraph a:hover{
+    text-decoration: underline;
+}
