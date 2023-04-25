@@ -1,8 +1,8 @@
 # Facbook clone
-This project is to showcase my HTML, CSS, and Javascript skills where I recreated the facebook login page using HTML, CSS, Javascript.
+This is a clone of Facbook Login page created using Html, css, and javascript.
 
-Here is the link to the page:
+link to the page:
 https://shulamohammad.github.io/Facbook_clone/
 
 Warning: 
-Since this resembles facebook's login page very much, your browser might flag it as a "Deceptive Page"
+Since this webpage resembles facebook's login page too closly, your browser might flag it as a "Deceptive Page". Please click on "Details" then on "visit this unsafe website" to view the webpage.
